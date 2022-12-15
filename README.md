@@ -2,9 +2,11 @@
 
 This repository contains BOYA structure for GHSL Urban Delineation algorithm
 
-Parameters:
+### Parameters
+
 This algorithm can be onboarded to the EDC platform using the following parameter specification:
 
+```javascript
 [
     {
         "name": "Area of interest",
@@ -21,3 +23,4 @@ This algorithm can be onboarded to the EDC platform using the following paramete
         "optional": false
     }
 ]
+```
